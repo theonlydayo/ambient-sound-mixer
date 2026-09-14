@@ -51,7 +51,7 @@ Create your perfect atmosphere with this beautiful and intuitive ambient sound m
 ### Local Development
 ```bash
 # Clone the repository
-git clone https://github.com/theonlydayo/ambient-sound-mixer.git
+git clone https://github.com/yourusername/ambient-sound-mixer.git
 
 # Navigate to project directory
 cd ambient-sound-mixer
